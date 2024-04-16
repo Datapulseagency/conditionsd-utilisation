@@ -1,71 +1,83 @@
-# **Conditions Générales d'Utilisation (CGU) - Data Pulse Agency**
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conditions Générales d'Utilisation (CGU) - Data Pulse Agency</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #333;
+            margin-top: 20px;
+        }
+        h3 {
+            color: #333;
+            margin-top: 15px;
+        }
+        p {
+            color: #666;
+        }
+        ol {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conditions Générales d'Utilisation (CGU) - Data Pulse Agency</h1>
 
-## **Article 1. Objet des Conditions Générales**
+    <h2>Article 1. Objet des Conditions Générales</h2>
+    <p>Le service de chatbot développé par Data Pulse Agency vise à aider les entreprises à maximiser leur potentiel en utilisant des technologies innovantes. En accédant et en utilisant ce service, l'utilisateur reconnaît avoir pris connaissance et accepté les présentes conditions générales d'utilisation.</p>
 
-Le service de chatbot développé par Data Pulse Agency vise à aider les entreprises à maximiser leur potentiel en utilisant des technologies innovantes. En accédant et en utilisant ce service, l'utilisateur reconnaît avoir pris connaissance et accepté les présentes conditions générales d'utilisation.
+    <h2>Article 2. Définitions</h2>
+    <ol>
+        <li><strong>CGU</strong> : Conditions Générales d'Utilisation du service de chatbot de Data Pulse Agency.</li>
+        <li><strong>Service</strong> : Service de chatbot fourni par Data Pulse Agency pour aider les entreprises à tirer parti de leur potentiel.</li>
+        <li><strong>Entreprise Partenaire</strong> : Toute société utilisant le service de chatbot de Data Pulse Agency sur son site web.</li>
+        <li><strong>Canal Conversationnel</strong> : Plateforme virtuelle permettant aux utilisateurs de dialoguer avec le chatbot de Data Pulse Agency.</li>
+        <li><strong>Utilisateur</strong> : Toute personne interagissant avec le chatbot de Data Pulse Agency via le site web d'une entreprise partenaire.</li>
+    </ol>
 
-## **Article 2. Définitions**
+    <h2>Article 3. Acceptation et Opposabilité des CGU</h2>
+    <h3>3.1 Acceptation</h3>
+    <p>L'utilisation du service de chatbot de Data Pulse Agency est soumise à l'acceptation préalable des présentes CGU. En utilisant ce service, l'utilisateur accepte sans réserve les termes des CGU.</p>
+    <h3>3.2 Modification</h3>
+    <p>Data Pulse Agency se réserve le droit de modifier les CGU à tout moment. Les utilisateurs seront informés des modifications et devront à nouveau accepter les CGU mises à jour lors de leur prochaine utilisation du service.</p>
+    <h3>3.3 Opposabilité</h3>
+    <p>Les présentes CGU sont opposables à l'utilisateur dès sa première utilisation du service de chatbot de Data Pulse Agency.</p>
 
-- **CGU** : Conditions Générales d'Utilisation du service de chatbot de Data Pulse Agency.
-- **Service** : Service de chatbot fourni par Data Pulse Agency pour aider les entreprises à tirer parti de leur potentiel.
-- **Entreprise Partenaire** : Toute société utilisant le service de chatbot de Data Pulse Agency sur son site web.
-- **Canal Conversationnel** : Plateforme virtuelle permettant aux utilisateurs de dialoguer avec le chatbot de Data Pulse Agency.
-- **Utilisateur** : Toute personne interagissant avec le chatbot de Data Pulse Agency via le site web d'une entreprise partenaire.
+    <h2>Article 4. Inscription, Accès et Utilisation du Service</h2>
+    <h3>Inscription et Accès de l'Utilisateur</h3>
+    <p>L'accès au service de chatbot se fait directement sur le site web de l'entreprise partenaire. L'utilisateur doit fournir une adresse e-mail valide lors de sa première interaction avec le chatbot et accepter les CGU pour utiliser le service.</p>
+    <h3>Disponibilité du Service</h3>
+    <p>Le service de chatbot est accessible 24h/24 et 7j/7, sauf en cas de maintenance ou de force majeure. Data Pulse Agency se réserve le droit d'interrompre le service temporairement sans préavis.</p>
+    <h3>Utilisation du Service</h3>
+    <p>L'utilisateur s'engage à utiliser le service de chatbot conformément aux CGU et aux lois en vigueur. Data Pulse Agency décline toute responsabilité quant au contenu des interactions avec le chatbot.</p>
+    <h3>Bannissement du Service</h3>
+    <p>En cas de non-respect des CGU, Data Pulse Agency se réserve le droit de restreindre l'accès au service de chatbot à l'utilisateur.</p>
 
-## **Article 3. Acceptation et Opposabilité des CGU**
+    <h2>Article 5. Protection de la Vie Privée et des Données à Caractère Personnel</h2>
+    <p>Data Pulse Agency collecte et traite les données à caractère personnel des utilisateurs dans le respect de la législation en vigueur. Les utilisateurs disposent de droits sur leurs données personnelles et peuvent les exercer en contactant Data Pulse Agency.</p>
 
-**3.1 Acceptation**
+    <h2>Article 6. Propriété Intellectuelle</h2>
+    <p>Les droits de propriété intellectuelle sur le service de chatbot appartiennent à Data Pulse Agency. Toute reproduction ou utilisation non autorisée est interdite.</p>
 
-L'utilisation du service de chatbot de Data Pulse Agency est soumise à l'acceptation préalable des présentes CGU. En utilisant ce service, l'utilisateur accepte sans réserve les termes des CGU.
+    <h2>Article 7. Règles de Vie du Service</h2>
+    <p>En utilisant le service de chatbot, l'utilisateur s'engage à respecter les lois et règlements en vigueur ainsi que les présentes CGU. Data Pulse Agency se réserve le droit de supprimer tout contenu inapproprié.</p>
 
-**3.2 Modification**
+    <h2>Article 8. Droit Applicable et Attribution de Juridiction</h2>
+    <p>Les présentes CGU sont soumises au droit français. Tout litige relatif à l'utilisation du service de chatbot est de la compétence exclusive des tribunaux français.</p>
 
-Data Pulse Agency se réserve le droit de modifier les CGU à tout moment. Les utilisateurs seront informés des modifications et devront à nouveau accepter les CGU mises à jour lors de leur prochaine utilisation du service.
-
-**3.3 Opposabilité**
-
-Les présentes CGU sont opposables à l'utilisateur dès sa première utilisation du service de chatbot de Data Pulse Agency.
-
-## **Article 4. Inscription, Accès et Utilisation du Service**
-
-**Inscription et Accès de l'Utilisateur**
-
-L'accès au service de chatbot se fait directement sur le site web de l'entreprise partenaire. L'utilisateur doit fournir une adresse e-mail valide lors de sa première interaction avec le chatbot et accepter les CGU pour utiliser le service.
-
-**Disponibilité du Service**
-
-Le service de chatbot est accessible 24h/24 et 7j/7, sauf en cas de maintenance ou de force majeure. Data Pulse Agency se réserve le droit d'interrompre le service temporairement sans préavis.
-
-**Utilisation du Service**
-
-L'utilisateur s'engage à utiliser le service de chatbot conformément aux CGU et aux lois en vigueur. Data Pulse Agency décline toute responsabilité quant au contenu des interactions avec le chatbot.
-
-**Bannissement du Service**
-
-En cas de non-respect des CGU, Data Pulse Agency se réserve le droit de restreindre l'accès au service de chatbot à l'utilisateur.
-
-## **Article 5. Protection de la Vie Privée et des Données à Caractère Personnel**
-
-Data Pulse Agency collecte et traite les données à caractère personnel des utilisateurs dans le respect de la législation en vigueur. Les utilisateurs disposent de droits sur leurs données personnelles et peuvent les exercer en contactant Data Pulse Agency.
-
-## **Article 6. Propriété Intellectuelle**
-
-Les droits de propriété intellectuelle sur le service de chatbot appartiennent à Data Pulse Agency. Toute reproduction ou utilisation non autorisée est interdite.
-
-## **Article 7. Règles de Vie du Service**
-
-En utilisant le service de chatbot, l'utilisateur s'engage à respecter les lois et règlements en vigueur ainsi que les présentes CGU. Data Pulse Agency se réserve le droit de supprimer tout contenu inapproprié.
-
-## **Article 8. Droit Applicable et Attribution de Juridiction**
-
-Les présentes CGU sont soumises au droit français. Tout litige relatif à l'utilisation du service de chatbot est de la compétence exclusive des tribunaux français.
-
-## **Article 9. Liens Hypertextes et Cookies**
-
-**Liens Hypertextes**
-
-Data Pulse Agency décline toute responsabilité quant aux contenus des sites des entreprises partenaires accessibles via des liens hypertextes depuis le chatbot.
-
-**Cookies**
-
-Le service de chatbot utilise des cookies pour améliorer l'expérience utilisateur. En utilisant ce service, l'utilisateur consent à l'utilisation de cookies conformément à la politique de cookies de Data Pulse Agency.
+    <h2>Article 9. Liens Hypertextes et Cookies</h2>
+    <h3>Liens Hypertextes</h3>
+    <p>Data Pulse Agency décline toute responsabilité quant aux contenus des sites des entreprises partenaires accessibles via des liens hypertextes depuis le chatbot.</p>
+    <h3>Cookies</h3>
+    <p>Le service de chatbot utilise des cookies pour améliorer l'expérience utilisateur. En utilisant ce service, l'utilisateur consent à l'utilisation de cookies conformément à la politique de cookies de Data Pulse Agency.</p>
+</body>
+</html>
